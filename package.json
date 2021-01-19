@@ -1,0 +1,26 @@
+{
+  "name": "micromarkov",
+  "version": "1.0.0",
+  "description": "a markov micro service",
+  "main": "index.js",
+  "directories": {
+    "lib": "lib"
+  },
+  "dependencies": {
+    "colors": "^1.4.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/langel/micromarkov.git"
+  },
+  "author": "puke7",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/langel/micromarkov/issues"
+  },
+  "homepage": "https://github.com/langel/micromarkov#readme"
+}
